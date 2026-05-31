@@ -1,0 +1,1078 @@
+[
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c5373a"
+    },
+    "title": "10 marla house",
+    "description": "10 marla fully furnished. recently built. new building.",
+    "propertyType": "house",
+    "price": 20000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertySize": 2700,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.681319161931565,
+    "longitude": 72.66121023045125,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-05-31T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174446/intelligent-house-renting/btrhkb0z7o3im2i7iyew.jpg",
+        "publicId": "intelligent-house-renting/btrhkb0z7o3im2i7iyew",
+        "_id": {
+          "$oid": "6a1b4e6fdcefbabb0c9a47b5"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174446/intelligent-house-renting/epivklr9devmc8g4ouy0.jpg",
+        "publicId": "intelligent-house-renting/epivklr9devmc8g4ouy0",
+        "_id": {
+          "$oid": "6a1b4e6fdcefbabb0c9a47b6"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174446/intelligent-house-renting/xd84sjtwtjekr30tvhic.jpg",
+        "publicId": "intelligent-house-renting/xd84sjtwtjekr30tvhic",
+        "_id": {
+          "$oid": "6a1b4e6fdcefbabb0c9a47b7"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:54:06Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:54:07.459Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c5373b"
+    },
+    "title": "5 marla house",
+    "description": "Beautiful family house with modern kitchen.",
+    "propertyType": "house",
+    "price": 15000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertySize": 1400,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6821,
+    "longitude": 72.6623,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174277/intelligent-house-renting/zqgjvfqamnjjn83ay1ge.jpg",
+        "publicId": "intelligent-house-renting/zqgjvfqamnjjn83ay1ge",
+        "_id": {
+          "$oid": "6a1b4dc5dcefbabb0c9a4773"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174277/intelligent-house-renting/td3kgkoid1x6xjseoczh.jpg",
+        "publicId": "intelligent-house-renting/td3kgkoid1x6xjseoczh",
+        "_id": {
+          "$oid": "6a1b4dc5dcefbabb0c9a4774"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:51:16.421Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:51:17.532Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c5373c"
+    },
+    "title": "8 marla upper portion",
+    "description": "Spacious upper portion in a peaceful area.",
+    "propertyType": "townhouse",
+    "price": 18000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertySize": 2000,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6835,
+    "longitude": 72.6608,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174505/intelligent-house-renting/aihaggsjkvwmgz8k1fqf.jpg",
+        "publicId": "intelligent-house-renting/aihaggsjkvwmgz8k1fqf",
+        "_id": {
+          "$oid": "6a1b4eaadcefbabb0c9a47d4"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174505/intelligent-house-renting/wryc00rkaol2qjro7rqj.jpg",
+        "publicId": "intelligent-house-renting/wryc00rkaol2qjro7rqj",
+        "_id": {
+          "$oid": "6a1b4eaadcefbabb0c9a47d5"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:55:05.279Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:55:06.571Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c5373d"
+    },
+    "title": "3 marla apartment",
+    "description": "Apartment suitable for small family.",
+    "propertyType": "apartment",
+    "price": 12000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "propertySize": 900,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6842,
+    "longitude": 72.6635,
+    "amenities": [
+      "wifi",
+      "parking",
+      "ac"
+    ],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174155/intelligent-house-renting/l4s6eldpr9kzmow4a5ba.jpg",
+        "publicId": "intelligent-house-renting/l4s6eldpr9kzmow4a5ba",
+        "_id": {
+          "$oid": "6a1b4d4bdcefbabb0c9a4751"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174155/intelligent-house-renting/ehxttyqsws6u95nzagix.jpg",
+        "publicId": "intelligent-house-renting/ehxttyqsws6u95nzagix",
+        "_id": {
+          "$oid": "6a1b4d4bdcefbabb0c9a4752"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:49:14.458Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:49:16.002Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c5373e"
+    },
+    "title": "1 kanal luxury house",
+    "description": "Luxury house with lawn and garage.",
+    "propertyType": "house",
+    "price": 50000,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "propertySize": 5500,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6799,
+    "longitude": 72.6598,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-15T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174224/intelligent-house-renting/xeorjljkqwzujvf37qjy.jpg",
+        "publicId": "intelligent-house-renting/xeorjljkqwzujvf37qjy",
+        "_id": {
+          "$oid": "6a1b4d90dcefbabb0c9a475f"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174223/intelligent-house-renting/sgxkj00ocbrwgt1l54si.jpg",
+        "publicId": "intelligent-house-renting/sgxkj00ocbrwgt1l54si",
+        "_id": {
+          "$oid": "6a1b4d90dcefbabb0c9a4760"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174223/intelligent-house-renting/tt2tu47xau8pw9xhsp3c.jpg",
+        "publicId": "intelligent-house-renting/tt2tu47xau8pw9xhsp3c",
+        "_id": {
+          "$oid": "6a1b4d90dcefbabb0c9a4761"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174223/intelligent-house-renting/ccdz20jg4ccplffjemce.jpg",
+        "publicId": "intelligent-house-renting/ccdz20jg4ccplffjemce",
+        "_id": {
+          "$oid": "6a1b4d90dcefbabb0c9a4762"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:50:23.037Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:50:24.750Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c5373f"
+    },
+    "title": "7 marla house",
+    "description": "Well-maintained house near market.",
+    "propertyType": "house",
+    "price": 22000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "propertySize": 2200,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6805,
+    "longitude": 72.6642,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-20T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174384/intelligent-house-renting/qgcsdupabjpxz5l2wxky.jpg",
+        "publicId": "intelligent-house-renting/qgcsdupabjpxz5l2wxky",
+        "_id": {
+          "$oid": "6a1b4e31dcefbabb0c9a479d"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174384/intelligent-house-renting/bbnxnu0r0upoqvwmeakp.jpg",
+        "publicId": "intelligent-house-renting/bbnxnu0r0upoqvwmeakp",
+        "_id": {
+          "$oid": "6a1b4e31dcefbabb0c9a479e"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:53:03.876Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:53:05.053Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c53740"
+    },
+    "title": "4 marla apartment",
+    "description": "Affordable apartment with security services.",
+    "propertyType": "apartment",
+    "price": 14000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertySize": 1100,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6818,
+    "longitude": 72.665,
+    "amenities": [
+      "ac",
+      "wifi"
+    ],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-25T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174553/intelligent-house-renting/bxv1yejnbfgf4yjuxgpa.jpg",
+        "publicId": "intelligent-house-renting/bxv1yejnbfgf4yjuxgpa",
+        "_id": {
+          "$oid": "6a1b4edadcefbabb0c9a47f1"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174553/intelligent-house-renting/hlb8kswa5dmpyntwt4ep.jpg",
+        "publicId": "intelligent-house-renting/hlb8kswa5dmpyntwt4ep",
+        "_id": {
+          "$oid": "6a1b4edadcefbabb0c9a47f2"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:55:52.732Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:55:54.027Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c53741"
+    },
+    "title": "6 marla lower portion",
+    "description": "Separate entrance and parking space.",
+    "propertyType": "house",
+    "price": 16000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertySize": 1600,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6789,
+    "longitude": 72.6617,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-07-01T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174091/intelligent-house-renting/uxytdrqegtt82qpux4gt.jpg",
+        "publicId": "intelligent-house-renting/uxytdrqegtt82qpux4gt",
+        "_id": {
+          "$oid": "6a1b4d0cdcefbabb0c9a4745"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174091/intelligent-house-renting/mrv0ljfaqlhesvioubsn.jpg",
+        "publicId": "intelligent-house-renting/mrv0ljfaqlhesvioubsn",
+        "_id": {
+          "$oid": "6a1b4d0cdcefbabb0c9a4746"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:48:10.780Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:48:12.563Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c53742"
+    },
+    "title": "12 marla house",
+    "description": "Newly constructed house with modern design.",
+    "propertyType": "house",
+    "price": 30000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "propertySize": 3200,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6829,
+    "longitude": 72.6587,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-07-05T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174035/intelligent-house-renting/abloeni1nyjs6y8xdgit.jpg",
+        "publicId": "intelligent-house-renting/abloeni1nyjs6y8xdgit",
+        "_id": {
+          "$oid": "6a1b4cd4dcefbabb0c9a4737"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174036/intelligent-house-renting/ilkf9qnooxisjyz28rqt.jpg",
+        "publicId": "intelligent-house-renting/ilkf9qnooxisjyz28rqt",
+        "_id": {
+          "$oid": "6a1b4cd4dcefbabb0c9a4738"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174035/intelligent-house-renting/on69ylqrzf61sojilcn1.jpg",
+        "publicId": "intelligent-house-renting/on69ylqrzf61sojilcn1",
+        "_id": {
+          "$oid": "6a1b4cd4dcefbabb0c9a4739"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:47:14.646Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:47:16.641Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1b4c8c722f800b03c53743"
+    },
+    "title": "2 bed apartment",
+    "description": "Comfortable apartment in central location.",
+    "propertyType": "apartment",
+    "price": 13000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "propertySize": 850,
+    "sizeUnit": "sqft",
+    "location": "Hasilpur",
+    "latitude": 29.6801,
+    "longitude": 72.6629,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a1b414cb1100c74c7679ba2"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-07-10T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174325/intelligent-house-renting/zcumu1yuzt8gg63timjm.jpg",
+        "publicId": "intelligent-house-renting/zcumu1yuzt8gg63timjm",
+        "_id": {
+          "$oid": "6a1b4df5dcefbabb0c9a4787"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780174325/intelligent-house-renting/gdqgysm8ujoibutevyyr.jpg",
+        "publicId": "intelligent-house-renting/gdqgysm8ujoibutevyyr",
+        "_id": {
+          "$oid": "6a1b4df5dcefbabb0c9a4788"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-30T20:52:03.964Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-30T20:52:05.531Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c53746"
+    },
+    "title": "5 Marla House Faisalabad",
+    "description": "Well-maintained family house in a peaceful neighborhood.",
+    "propertyType": "house",
+    "price": 18000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertySize": 1350,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-01T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219603/intelligent-house-renting/sh8cmauanyhxs8fdjftu.jpg",
+        "publicId": "intelligent-house-renting/sh8cmauanyhxs8fdjftu",
+        "_id": {
+          "$oid": "6a1bfed3d13f0f783f54e07f"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219603/intelligent-house-renting/p7ljrakw9eto0gbnksee.jpg",
+        "publicId": "intelligent-house-renting/p7ljrakw9eto0gbnksee",
+        "_id": {
+          "$oid": "6a1bfed3d13f0f783f54e080"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:26:42.020Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:26:43.603Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c53747"
+    },
+    "title": "8 Marla Upper Portion",
+    "description": "Spacious upper portion with separate entrance.",
+    "propertyType": "house",
+    "price": 22000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "propertySize": 1800,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-05T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218790/intelligent-house-renting/hdmgeawk7z9nznijo46v.jpg",
+        "publicId": "intelligent-house-renting/hdmgeawk7z9nznijo46v",
+        "_id": {
+          "$oid": "6a1bfba7d13f0f783f54dfd4"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218790/intelligent-house-renting/crajcfrgfghdzrw4lbqq.jpg",
+        "publicId": "intelligent-house-renting/crajcfrgfghdzrw4lbqq",
+        "_id": {
+          "$oid": "6a1bfba7d13f0f783f54dfd5"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218790/intelligent-house-renting/trnfd3ajjxcdrfrwnk2c.jpg",
+        "publicId": "intelligent-house-renting/trnfd3ajjxcdrfrwnk2c",
+        "_id": {
+          "$oid": "6a1bfba7d13f0f783f54dfd6"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:13:09.346Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:13:11.347Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c53748"
+    },
+    "title": "3 Marla Apartment",
+    "description": "Modern apartment suitable for small families.",
+    "propertyType": "apartment",
+    "price": 14000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "propertySize": 850,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-10T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219649/intelligent-house-renting/uwyfn3zraappfwbrynrv.jpg",
+        "publicId": "intelligent-house-renting/uwyfn3zraappfwbrynrv",
+        "_id": {
+          "$oid": "6a1bff02d13f0f783f54e09f"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:27:29.228Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:27:30.364Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c53749"
+    },
+    "title": "10 Marla Luxury House",
+    "description": "Newly built luxury house with modern architecture.",
+    "propertyType": "house",
+    "price": 35000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "propertySize": 2800,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-15T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218720/intelligent-house-renting/m6hp28i3kfjlqnccylfd.jpg",
+        "publicId": "intelligent-house-renting/m6hp28i3kfjlqnccylfd",
+        "_id": {
+          "$oid": "6a1bfb60d13f0f783f54dfbf"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218720/intelligent-house-renting/hm3kmmd67daca713zulg.jpg",
+        "publicId": "intelligent-house-renting/hm3kmmd67daca713zulg",
+        "_id": {
+          "$oid": "6a1bfb60d13f0f783f54dfc0"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218720/intelligent-house-renting/wolbgvq1gkmz06pzswri.jpg",
+        "publicId": "intelligent-house-renting/wolbgvq1gkmz06pzswri",
+        "_id": {
+          "$oid": "6a1bfb60d13f0f783f54dfc1"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218720/intelligent-house-renting/wec61qzwnludibcdv9a5.jpg",
+        "publicId": "intelligent-house-renting/wec61qzwnludibcdv9a5",
+        "_id": {
+          "$oid": "6a1bfb60d13f0f783f54dfc2"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:11:59.349Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:12:00.797Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c5374a"
+    },
+    "title": "6 Marla Lower Portion",
+    "description": "Separate lower portion with parking facility.",
+    "propertyType": "house",
+    "price": 17000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "propertySize": 1500,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [
+      "parking"
+    ],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-20T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218632/intelligent-house-renting/wdcdr3sigcojahalydvp.jpg",
+        "publicId": "intelligent-house-renting/wdcdr3sigcojahalydvp",
+        "_id": {
+          "$oid": "6a1bfb09d13f0f783f54dfa2"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218632/intelligent-house-renting/ivankrms4tasf7v6mfls.jpg",
+        "publicId": "intelligent-house-renting/ivankrms4tasf7v6mfls",
+        "_id": {
+          "$oid": "6a1bfb09d13f0f783f54dfa3"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218632/intelligent-house-renting/gdgq9ygaotvtgnv3jwr5.jpg",
+        "publicId": "intelligent-house-renting/gdgq9ygaotvtgnv3jwr5",
+        "_id": {
+          "$oid": "6a1bfb09d13f0f783f54dfa4"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:10:31.863Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:10:33.122Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c5374b"
+    },
+    "title": "1 Kanal House",
+    "description": "Large family house with spacious rooms and lawn.",
+    "propertyType": "house",
+    "price": 55000,
+    "bedrooms": 5,
+    "bathrooms": 5,
+    "propertySize": 5000,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-06-25T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218849/intelligent-house-renting/ndummzqegti9dn6oy8gt.jpg",
+        "publicId": "intelligent-house-renting/ndummzqegti9dn6oy8gt",
+        "_id": {
+          "$oid": "6a1bfbe2d13f0f783f54dfeb"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218849/intelligent-house-renting/q7qmh3vvavsna3htz3qb.jpg",
+        "publicId": "intelligent-house-renting/q7qmh3vvavsna3htz3qb",
+        "_id": {
+          "$oid": "6a1bfbe2d13f0f783f54dfec"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218849/intelligent-house-renting/ljadc2xjnr14agxpyovv.jpg",
+        "publicId": "intelligent-house-renting/ljadc2xjnr14agxpyovv",
+        "_id": {
+          "$oid": "6a1bfbe2d13f0f783f54dfed"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218849/intelligent-house-renting/dfyqkavb7zsrvyqoa9fw.jpg",
+        "publicId": "intelligent-house-renting/dfyqkavb7zsrvyqoa9fw",
+        "_id": {
+          "$oid": "6a1bfbe2d13f0f783f54dfee"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:14:08.763Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:14:10.202Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c5374c"
+    },
+    "title": "4 Marla Apartment",
+    "description": "Affordable apartment near commercial area.",
+    "propertyType": "apartment",
+    "price": 12000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "propertySize": 900,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-07-01T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219746/intelligent-house-renting/qneyf1fkjhqqvryzo5vg.jpg",
+        "publicId": "intelligent-house-renting/qneyf1fkjhqqvryzo5vg",
+        "_id": {
+          "$oid": "6a1bff63d13f0f783f54e0bf"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219746/intelligent-house-renting/zg0ervaxl1h1nuticu9a.jpg",
+        "publicId": "intelligent-house-renting/zg0ervaxl1h1nuticu9a",
+        "_id": {
+          "$oid": "6a1bff63d13f0f783f54e0c0"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:29:05.452Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:29:07.127Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c5374d"
+    },
+    "title": "7 Marla House",
+    "description": "Beautiful house located near schools and markets.",
+    "propertyType": "house",
+    "price": 25000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "propertySize": 2200,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-07-05T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218676/intelligent-house-renting/a6oux0mrfdqum4av157u.jpg",
+        "publicId": "intelligent-house-renting/a6oux0mrfdqum4av157u",
+        "_id": {
+          "$oid": "6a1bfb35d13f0f783f54dfaf"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218676/intelligent-house-renting/xte1qhloxwwjlv7tkqwb.jpg",
+        "publicId": "intelligent-house-renting/xte1qhloxwwjlv7tkqwb",
+        "_id": {
+          "$oid": "6a1bfb35d13f0f783f54dfb0"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780218676/intelligent-house-renting/rs2jd4nhiqd4nl2bivm8.jpg",
+        "publicId": "intelligent-house-renting/rs2jd4nhiqd4nl2bivm8",
+        "_id": {
+          "$oid": "6a1bfb35d13f0f783f54dfb1"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:11:15.549Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:11:17.324Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c5374e"
+    },
+    "title": "12 Marla House",
+    "description": "Elegant house with modern interior design.",
+    "propertyType": "house",
+    "price": 40000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "propertySize": 3400,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [
+      "wifi",
+      "ac"
+    ],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-07-10T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780217183/intelligent-house-renting/v2tuwpts16ngiujn23dc.jpg",
+        "publicId": "intelligent-house-renting/v2tuwpts16ngiujn23dc",
+        "_id": {
+          "$oid": "6a1bf560d13f0f783f54df95"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780217183/intelligent-house-renting/deagi5jvvz6xcoh3opgu.jpg",
+        "publicId": "intelligent-house-renting/deagi5jvvz6xcoh3opgu",
+        "_id": {
+          "$oid": "6a1bf560d13f0f783f54df96"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T08:46:22.460Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T08:46:24.096Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a1bb70c722f800b03c5374f"
+    },
+    "title": "2 Bed Apartment",
+    "description": "Comfortable apartment with easy access to public transport.",
+    "propertyType": "apartment",
+    "price": 13000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "propertySize": 800,
+    "sizeUnit": "sqft",
+    "location": "Faisalabad",
+    "latitude": 31.41291,
+    "longitude": 73.11379,
+    "amenities": [],
+    "landlordId": {
+      "$oid": "6a0f645a61262baa0cac901f"
+    },
+    "isAvailable": true,
+    "availableFrom": {
+      "$date": "2026-07-15T00:00:00Z"
+    },
+    "averageRating": 0,
+    "totalReviews": 0,
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219558/intelligent-house-renting/gfaryrb7aftdafzhqzwx.jpg",
+        "publicId": "intelligent-house-renting/gfaryrb7aftdafzhqzwx",
+        "_id": {
+          "$oid": "6a1bfea6d13f0f783f54e05f"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219558/intelligent-house-renting/eaezjs6e69kofbp8popu.jpg",
+        "publicId": "intelligent-house-renting/eaezjs6e69kofbp8popu",
+        "_id": {
+          "$oid": "6a1bfea6d13f0f783f54e060"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219558/intelligent-house-renting/wf8tjfim7fire3dup4es.jpg",
+        "publicId": "intelligent-house-renting/wf8tjfim7fire3dup4es",
+        "_id": {
+          "$oid": "6a1bfea6d13f0f783f54e061"
+        }
+      },
+      {
+        "url": "https://res.cloudinary.com/dijvmczuv/image/upload/v1780219558/intelligent-house-renting/xwqcoiajx4tibsnkqx1t.jpg",
+        "publicId": "intelligent-house-renting/xwqcoiajx4tibsnkqx1t",
+        "_id": {
+          "$oid": "6a1bfea6d13f0f783f54e062"
+        }
+      }
+    ],
+    "__v": 1,
+    "createdAt": {
+      "$date": "2026-05-31T09:25:57.377Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-31T09:25:58.953Z"
+    }
+  }
+]
